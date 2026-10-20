@@ -248,14 +248,14 @@ Generates audio travel guides for Indian landmarks using **Gemini AI** and **Mur
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Thanujgthub/Thanujgthub/output/pacman-contribution-graph-dark.svg"
+    srcset="https://raw.githubusercontent.com/Thanujgthub/Thanujgthub/output/pacman-contribution-graph-dark.svg?v=1"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Thanujgthub/Thanujgthub/output/pacman-contribution-graph.svg"
+    srcset="https://raw.githubusercontent.com/Thanujgthub/Thanujgthub/output/pacman-contribution-graph.svg?v=1"
   />
   <img
-    src="https://raw.githubusercontent.com/Thanujgthub/Thanujgthub/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/Thanujgthub/Thanujgthub/output/pacman-contribution-graph.svg?v=1"
     alt="Pac-Man contribution graph"
     width="100%"
   />
