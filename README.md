@@ -66,7 +66,7 @@ My projects include **Telugu handwriting recognition**, a **college document ass
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔤 [Akshara OCR](https://github.com/Thanujgthub/akshara-ocr)
 
@@ -83,7 +83,7 @@ Adapted **IndicOCR** for Telugu handwriting and evaluated it on **3,000 held-out
 
 </td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎓 [CampusAI](https://github.com/Thanujgthub/CampusAI)
 
@@ -102,7 +102,7 @@ Answers questions from college documents using **retrieval-augmented generation*
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 [SubnetScope](https://github.com/Thanujgthub/subnet-reconnaissance-visualizer)
 
@@ -119,7 +119,7 @@ Explains subnet calculations and TCP connection outcomes through an **interactiv
 
 </td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎹 [Pocket Piano](https://github.com/Thanujgthub/pocket_piano)
 
@@ -137,7 +137,7 @@ A responsive piano with **24 keys**, computer keyboard shortcuts, **four wavefor
   </tr>
 
   <tr>
-    <td colspan="2" valign="top">
+<td colspan="2" valign="top">
 
 ### 🗺️ [AI Audio Travel Guide](https://github.com/Thanujgthub/travel-guide)
 
@@ -164,7 +164,7 @@ Generates audio travel guides for Indian landmarks using **Gemini AI** and **Mur
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
+<td width="25%" valign="top">
 
 ### 🧠 AI & ML
 
